@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **subhasmunain@gmail.com**
 
-- ⚡ Fun fact **I think we should always keep smiling.**
+- ⚡ Fun fact **"I think we should always keep smiling".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
