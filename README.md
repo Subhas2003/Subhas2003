@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **subhasmunain@gmail.com**
+- 📫 How to reach me **subhasmunain58@gmail.com**
 
 - ⚡ Fun fact **"I think we should always keep smiling".**
 
