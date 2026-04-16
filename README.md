@@ -31,7 +31,7 @@ I'm a B.Tech ECE student and an aspiring software developer with a passion for b
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://www.facebook.com/subhas.chandra.3114935" target="blank">
-<img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/fbc11cbc-db85-4241-b190-02face72051e" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fbc11cbc-db85-4241-b190-02face72051e" />
 
 </a>
 <a href="https://www.instagram.com/subhasmunain" target="blank">
