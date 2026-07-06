@@ -6,9 +6,9 @@ I'm a B.Tech ECE student and an aspiring software developer with a passion for b
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Working as a 
 <p align="center">
-  <b>MERN Stack</b>
+  <b>MERN Stack Developer</b>
 </p>
 
 ### 📫 Contact Me
